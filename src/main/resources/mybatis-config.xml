@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!--引入外部配置文件-->
+    <properties resource="database.properties"></properties>
+
+    <!--这是 MyBatis 中极为重要的调整设置，它们会改变 MyBatis 的运行时行为-->
+    <settings>
+        <setting name="logImpl" value="LOG4J"/>
+    </settings>
+
+    <!--typeAliases：别名处理器，可以为我们的 java类型 起别名，别名不区分大小写-->
+    <typeAliases>
+        <package name="com.wf.pojo"/>
+        <!--批量起别名的情况下，使用@Alias注解为某个指定类型重新起别名-->
+    </typeAliases>
+
+    <!--    MyBatis 在设置预处理语句（PreparedStatement）中的参数或从结果集中取出一个值时， 都会用类型处理器将获取到的值以合适的方式转换成 Java 类型。-->
+    <!--    <typeHandlers></typeHandlers>-->
+
+    <!-- 配置mybatis运行环境 -->
+    <environments default="development">
+        <environment id="development">
+            <!-- 使用JDBC的事务管理 -->
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <!-- MySQL数据库驱动 -->
+                <property name="driver" value="${driver}"/>
+                <!-- 连接数据库的URL -->
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!-- 将mapper文件加入到配置文件中 -->
+    <mappers>
+        <package name="com.wf.dao"/>
+    </mappers>
+
+</configuration>

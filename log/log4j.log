@@ -1,0 +1,614 @@
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-15][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-15][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 5
+[DEBUG][22-02-15][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-15][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-15][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-15][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 5
+[DEBUG][22-02-15][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-15][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 5
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 5
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 5
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin (Lcom/wf/pojo/Login;)V 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/loginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 A
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.EmployeeMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 A
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.EmployeeMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 A
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.EmployeeMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][22-02-16][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][22-02-16][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Employee.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 A
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/pojo/Login.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 6
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Employee matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.pojo.Login matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Listing file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/EmployeeMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/C:/Users/Hasee/Desktop/SpringMVC/target/classes/com/wf/dao/LoginMapper.class
+[DEBUG][22-02-16][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 	   addLogin '(Ljava/lang/String;)Lcom/wf/pojo/Login; 
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.EmployeeMapper matches criteria [is assignable to Object]
+[DEBUG][22-02-16][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.wf.dao.LoginMapper matches criteria [is assignable to Object]
